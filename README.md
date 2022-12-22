@@ -2,7 +2,7 @@
 
 For every specific person, this program is used to identify drowsiness. In this program, we measure how long someone has had their eyes closed. The program will notify the user by playing an alarm sound if the eyes have been closed for a long time, that is longer than a predetermined threshold value. It will check if a person is feeling drowsy or sleeping and will send alert sound with message.
 
-#Requirements
+# Requirements
 
 numpy==1.15.2
 dlib==19.16.0
@@ -11,7 +11,7 @@ imutils==0.5.1
 opencv_python==3.4.3.18
 scipy==1.1.0
 
-#Working
+# Working
 
 *Active State
 
@@ -25,7 +25,7 @@ scipy==1.1.0
 
 ![Drowsy-sleepy](https://user-images.githubusercontent.com/85720636/209183186-c80d6f41-5fab-4612-838e-a1d53cbb7100.jpg)
 
-#Steps to run :
+# Steps to run :
 
 Download/Clone this repository
 Inside the main folder, open a terminal and run => python drowsiness.py
