@@ -5,10 +5,15 @@ For every specific person, this program is used to identify drowsiness. In this 
 # Requirements
 
 numpy==1.15.2
+
 dlib==19.16.0
+
 pygame==1.9.4
+
 imutils==0.5.1
+
 opencv_python==3.4.3.18
+
 scipy==1.1.0
 
 # Working
@@ -28,5 +33,6 @@ scipy==1.1.0
 # Steps to run :
 
 Download/Clone this repository
+
 Inside the main folder, open a terminal and run => python drowsiness.py
 
